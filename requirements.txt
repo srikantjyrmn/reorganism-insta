@@ -8,4 +8,5 @@ threads-api
 cryptography
 colorama
 asyncio
+selenium
 instapy
