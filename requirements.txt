@@ -1,0 +1,11 @@
+wordpress-api
+anthropic
+requests
+openai
+instagrapi
+pillow
+threads-api
+cryptography
+colorama
+asyncio
+instapy
